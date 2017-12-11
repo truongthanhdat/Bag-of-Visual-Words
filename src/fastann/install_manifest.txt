@@ -1,0 +1,5 @@
+/usr/local/lib/libfastann.so
+/usr/local/include/fastann/fastann.hpp
+/usr/local/include/fastann/randomkit.h
+/usr/local/include/fastann/rand_point_gen.hpp
+/usr/local/include/fastann/fastann.h
