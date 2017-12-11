@@ -6,7 +6,7 @@ if __name__ == '__main__':
     #Extract Features
     duration = time.time()
     features = np.load('../data/features/features.npy')
-    #labels = np.load('../data/features/labels.npy')
+    labels = np.load('../data/features/labels.npy')
     duration = time.time() - duration
     print 'Extracting Features take', duration, 'seconds'
 
