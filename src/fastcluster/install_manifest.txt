@@ -1,0 +1,4 @@
+/usr/local/lib/libfastcluster.so
+/usr/local/include/fastcluster/kmeans.h
+/usr/local/include/fastcluster/mpi_queue.hpp
+/usr/local/include/fastcluster/randomkit.h

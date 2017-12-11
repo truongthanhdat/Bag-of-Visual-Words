@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dattt/Downloads/fastcluster/mpi_queue.hpp
+iosfwd
+-
+vector
+-
+mpi.h
+-
+
+/home/dattt/Downloads/fastcluster/test_mpi_queue.cpp
+cassert
+-
+stdio.h
+-
+mpi_queue.hpp
+/home/dattt/Downloads/fastcluster/mpi_queue.hpp
+
